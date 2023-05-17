@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">比七大比七小</string>
+    <string name="larger">比七大</string>
+    <string name="smaller">比七小</string>
+    <string name="correct">恭喜，猜對了</string>
+    <string name="wrong">喔喔，猜錯了</string>
+    <string name="score">得分</string>
+
+</resources>
